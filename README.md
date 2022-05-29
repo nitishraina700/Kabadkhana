@@ -1,2 +1,2 @@
 # Kabadkhana
-Kabaad stored place.
+Kabaad stored space.
